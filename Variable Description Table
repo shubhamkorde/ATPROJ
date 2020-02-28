@@ -1,0 +1,20 @@
+Variable Table
+
+hor - double - assumed horizon length
+lam_inc - double - lamda increment
+lst -int- lost time or the all red time
+tm_stp- double -re-iteration time period
+m - int - number of approaches
+n - double -number of phases
+app_phs[6] - int array - stores the phase of each approaches
+maxcol - 6 - max number of approaches
+choice - int - whether to input arrival times manually or from an external arr_time.txt
+cs - double - DESCRIPTION REMAINING
+rt - double - DESCRIPTION REMAINING
+ts - double - DESCRIPTION REMAINING
+no - int - DESCRIPTION REMAINING
+cum_delay - double - DESCRIPTION REMAINING
+entry[6]- int array - DESCRIPTION REMAINING
+sum_at[6]- int array - DESCRIPTION REMAINING
+entry_tempo[6] - int array - DESCRIPTION REMAINING
+sum_at_tempo[6]- int array - DESCRIPTION REMAINING
